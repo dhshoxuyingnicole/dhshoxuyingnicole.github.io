@@ -1,4 +1,8 @@
- h1{
+body {
+    background-image: url("https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg");
+} 
+
+h1{
 
   font-family: verdana;
   color:blue;
